@@ -1,0 +1,40 @@
+
+body {
+    background-image: href=font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 2.5rem;
+}
+h1, h2, h3, h4, h5, h6, p, li, ul{
+    color: rgba(20, 146, 195, 0.67);
+  }
+  a:hover{
+    color: rgb(0, 255, 242);
+  }
+.header_nav a{
+    margin: 1rem;
+
+}
+a{
+    color: rgba(20, 146, 195, 0.67);
+    text-decoration: none;
+    font-size: 1rem;
+}
+h1{
+    font-size: 1rem;
+  }
+.rightA {
+    float: right;margin-left:3;
+}
+.leftA {
+    float: left;
+}
+.colonka_left {
+float: left; width: 40%;margin:2%;color:rgb(231, 14, 68);
+}
+.colonka_right {
+float: right; width: 40%;margin:2%;color:rgb(231, 14, 68);
+}
+.blog{
+    float:left; width: 40%;margin: 5%;
+}
